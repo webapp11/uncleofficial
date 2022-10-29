@@ -38,8 +38,12 @@ if selected == "Home":
     with st.container():
         st.write("##")
         col1, col2, col3 = st.columns(3)
+        with col1:
+            st.write("")
         with col2:
             st.image(yt_logo)
+         with col3:
+            st.write("")
         st.markdown(
             "<h1 style='text-align: center; text-decoration: underline; font-size: 50px; font-family: copper black; color: black;'>Uncle Official. </h1>",
             unsafe_allow_html=True)
