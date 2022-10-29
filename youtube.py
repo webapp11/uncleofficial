@@ -42,7 +42,7 @@ if selected == "Home":
             st.write("")
         with col2:
             st.image(yt_logo)
-         with col3:
+        with col3:
             st.write("")
         st.markdown(
             "<h1 style='text-align: center; text-decoration: underline; font-size: 50px; font-family: copper black; color: black;'>Uncle Official. </h1>",
