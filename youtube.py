@@ -27,7 +27,7 @@ selected = option_menu(
     styles={
         "container": {"padding": "0!important", "background-color": "white"},
             "icon": {"color": "orange", "font-size": "25px"},
-            "nav-link": {"font-size": "25px", "text-align": "left", "margin":"0px", "--hover-color": "#c0c0c0 "},
+            "nav-link": {"font-size": "20px", "font-color": "Black", "text-align": "left", "margin":"0px", "--hover-color": "#c0c0c0 "},
             "nav-link-selected": {"background-color": "#12c9bb"},
     }
 )
